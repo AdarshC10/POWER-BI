@@ -42,7 +42,7 @@ Welcome to my Power BI portfolio! This repository showcases a collection of inte
 
 **Technologies:** Power BI, DAX, Power Query, Excel
 
-[📁 View Project](https://github.com/AdarshC10/POWER-BI/tree/main/Budget%20and%20Sales%20Dashboard) | [📊 Live Demo](#)
+[📁 View Project](https://github.com/AdarshC10/POWER-BI/tree/main/Budget%20and%20Sales%20Dashboard)
 
 ---
 
