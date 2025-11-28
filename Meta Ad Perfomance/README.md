@@ -184,7 +184,7 @@ DIVIDE(
 ) * 100
 ```
 
-For complete DAX documentation, see [docs/DAX_measures.md](docs/DAX_measures.md)
+For complete DAX documentation, see [docs/KPI](https://github.com/AdarshC10/POWER-BI/blob/main/Meta%20Ad%20Perfomance/Business%20Requirements%20Document_KPI.pdf)
 
 ---
 
