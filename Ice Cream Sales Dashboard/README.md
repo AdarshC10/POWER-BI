@@ -168,7 +168,7 @@ Throughout this project, the following skills were developed:
 *Data Analyst | Power BI Developer | Turning Data Into Insights*
 
 📧 Email: [adarshcrv@gmail.com](mailto:adarshcrv@gmail.com)  
-💻 GitHub: [@yourusername](https://github.com/AdarshC10)  
+💻 GitHub: [AdarshC10](https://github.com/AdarshC10)  
 
 
 ---
