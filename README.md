@@ -42,7 +42,7 @@ Welcome to my Power BI portfolio! This repository showcases a collection of inte
 
 **Technologies:** Power BI, DAX, Power Query, Excel
 
-[📁 View Project](./Budget-Sales-Dashboard/) | [📊 Live Demo](#)
+[📁 View Project](https://github.com/AdarshC10/POWER-BI/tree/main/Budget%20and%20Sales%20Dashboard) | [📊 Live Demo](#)
 
 ---
 
@@ -71,7 +71,7 @@ Welcome to my Power BI portfolio! This repository showcases a collection of inte
 
 **Technologies:** Power BI, DAX, Star Schema, Power Query
 
-[📁 View Project](./Ice-Cream-Sales-Dashboard/) | [📊 Live Demo](#)
+[📁 View Project](https://github.com/AdarshC10/POWER-BI/tree/main/Ice%20Cream%20Sales%20Dashboard)
 
 ---
 
@@ -102,7 +102,7 @@ Welcome to my Power BI portfolio! This repository showcases a collection of inte
 
 **Technologies:** Power BI, DAX, Meta Campaign Data, Power Query
 
-[📁 View Project](./Meta-Ad-Performance-Dashboard/) | [📊 Live Demo](#)
+[📁 View Project](https://github.com/AdarshC10/POWER-BI/tree/main/Meta%20Ad%20Perfomance) 
 
 ---
 
@@ -135,7 +135,7 @@ Welcome to my Power BI portfolio! This repository showcases a collection of inte
 
 **Technologies:** Power BI, DAX, Star Schema, Time Intelligence
 
-[📁 View Project](./Uber-Data-Analytics-Dashboard/) | [📊 Live Demo](#)
+[📁 View Project](https://github.com/AdarshC10/POWER-BI/tree/main/Uber%20Data%20Analysis) 
 
 ---
 
