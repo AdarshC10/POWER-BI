@@ -158,8 +158,8 @@ meta-ad-performance-dashboard/
 ```dax
 Engagement Rate = 
 DIVIDE(
-    SUM(CampaignMetrics[Engagements]),
-    SUM(CampaignMetrics[Impressions]),
+    [Engagements],
+   [Impressions],
     0
 ) * 100
 ```
@@ -168,8 +168,8 @@ DIVIDE(
 ```dax
 CTR = 
 DIVIDE(
-    SUM(CampaignMetrics[Clicks]),
-    SUM(CampaignMetrics[Impressions]),
+   [Clicks],
+    [Impressions],
     0
 ) * 100
 ```
@@ -178,8 +178,8 @@ DIVIDE(
 ```dax
 Conversion Rate = 
 DIVIDE(
-    SUM(CampaignMetrics[Conversions]),
-    SUM(CampaignMetrics[Clicks]),
+   [Conversions],
+    [Clicks],
     0
 ) * 100
 ```
