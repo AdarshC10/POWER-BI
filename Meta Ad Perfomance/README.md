@@ -62,7 +62,7 @@ CTR = DIVIDE([Clicks], [Impressions])
 Engagement Rate = DIVIDE([Engagements], [Impressions])
 Conversion Rate = DIVIDE([Purchases], [Clicks])
 Avg Budget per Campaign = AVERAGE('Campaigns'[Total Budget])
-
+```
 ---
 
 ## 🙌 About Me
@@ -71,6 +71,7 @@ Aspiring Data Analyst | Data Scientist | Power BI | SQL | Python | Excel
 
 📩 Email: adarshcrv@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/adarsh-c-developer
-💼 Portfolio: (to be added)
+
+
 
 
