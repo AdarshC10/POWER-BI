@@ -14,8 +14,8 @@ Welcome to my Power BI portfolio! This repository showcases a collection of inte
 | Skill Category | Technologies & Tools |
 |----------------|---------------------|
 | **BI Tools** | Power BI Desktop, Power BI Service, DAX, Power Query |
-| **Data Modeling** | Star Schema, Snowflake Schema, Data Relationships |
-| **Data Sources** | Excel, CSV, SQL Databases, APIs, Cloud Data |
+| **Data Modeling** | Data Relationships |
+| **Data Sources** | Excel, CSV, APIs, Cloud Data |
 | **Analytics** | KPI Development, Trend Analysis, Predictive Insights |
 | **Visualization** | Interactive Dashboards, Custom Visuals, Storytelling |
 
