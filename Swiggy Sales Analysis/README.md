@@ -92,8 +92,7 @@ The dashboard is designed to help stakeholders quickly understand **key performa
 ## 📬 Contact
 
 **Adarsh C**
-📧 Email: *Add your email here*
-💼 LinkedIn: *Add your LinkedIn profile link*
+📧 Email: *adarshcrv@gmail.com*
 
 ---
 
